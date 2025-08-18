@@ -1,0 +1,6 @@
+'Hello, there!\nhow are you?\nHope you are[90 chars]ing!' != ''
+- Hello, there!
+- how are you?
+- Hope you are enjoying this course.
+- This exercises are designed to soldify your learning.
+- happy learning! : The output should match the content of file1.txt.
